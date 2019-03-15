@@ -1,0 +1,27 @@
+body {
+    background:rgb(137, 255, 137);
+}
+
+h1 {
+    color:white;
+}   
+
+
+ul {
+    color:white;
+}
+
+div.web {
+
+    position: absolute;
+    left: 570px; 
+    top: 20px;
+    background-color: rgb(40, 201, 255);
+    border: 5px solid rgb(237, 251, 255);
+    border-radius: 40px;
+  
+    padding-right: 5px;
+    font-size: 20px;
+    font-family: "Brush Script  ";
+    width: 320px; 
+}
